@@ -1,0 +1,21 @@
+section h1 {
+    background-color: aquamarine;
+}
+
+section p {
+    background-color: antiquewhite;
+    margin-top: -20px;
+}
+
+section article p {
+    background-color: transparent;
+}
+
+section article h1 {
+    background-color: transparent;
+}
+
+section article {
+    background-image: url(https://source.unsplash.com/random/);
+
+}
